@@ -1,4 +1,4 @@
-# Pruebas de Hipótesis y Segmentación en PowerBI
+# Red Neuronal con keras - Deep Learning
 
 Ficha Técnica: Proyecto de Análisis de Datos Predictivo
 
