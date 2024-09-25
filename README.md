@@ -1,11 +1,11 @@
 # Pruebas de Hipótesis y Segmentación en PowerBI
 
-Ficha Técnica: Proyecto de Análisis de Datos
+Ficha Técnica: Proyecto de Análisis de Datos Predictivo
 
-Título del Proyecto: Prueba de Hipótesis en PowerBI
+Título del Proyecto: Deep Learning con Redes Neuronales
 
 Objetivo:
-Realizar una prueba de hipótesis, utilizando una técnica de analisis de datos de segmentación y validación de Hipótesis.
+Construir una red neuronal.
 
 Equipo:
 Trabajo Grupal.
